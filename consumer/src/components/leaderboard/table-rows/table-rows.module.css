@@ -1,0 +1,14 @@
+.row {
+  text-align: left;
+  animation: highlight 2s;
+}
+
+@keyframes highlight {
+  from {
+    background: orange;
+  }
+
+  to {
+    background: transparent;
+  }
+}
