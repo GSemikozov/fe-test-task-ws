@@ -1,1 +1,1 @@
-export { LeaderBoard } from "@/components/leaderboard/leaderboard";
+export { LeaderBoard } from '@/components/leaderboard/leaderboard';

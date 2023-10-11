@@ -1,1 +1,1 @@
-export type { Leader } from "@/types/leader";
+export type { Leader } from '@/types/leader';
